@@ -1,4 +1,5 @@
 # Booki - Trouvez votre hébergement pour des vacances de rêve
+![alt text](images/logo/Booki.png)
 
 Ceci est le premier projet de ma formation de développeur web. L'objectif était de transformer une maquette Figma en un site de planification de vacances fonctionnel et entièrement responsive.
 
@@ -18,3 +19,10 @@ Booki permet aux usagers de trouver des hébergements et des activités dans la 
 
 ## 🌐 Aperçu du projet
 Vous pouvez consulter le site en ligne ici : https://booki-calvin.netlify.app/
+
+## 🖼️ Images du projet
+
+![alt text](images/hebergements/aw-creative.jpg)
+![alt text](images/hebergements/fred-kleber.jpg)
+![alt text](images/hebergements/nicate-lee.jpg)
+![alt text](images/hebergements/reisetopia.jpg)
